@@ -7,5 +7,6 @@ public class CalculatorTest {
         System.out.println("Testing multiply: " + (calculator.multiply(2, 3) == 6));
         System.out.println("Testing divide: " + (calculator.divide(6, 3) == 2));
         System.out.println("Testing divide by zero: " + (calculator.divide(6, 0) == 0));
+        System.out.println("cambis random");
     }
 }
