@@ -19,9 +19,9 @@ public class Calculator {
         }
         return a / b;
     }
-    public int modulus(int a, int b)
+    public int modulus(int a, int b){
     return a%b;
-
+    }
     public double sqrt(double a){
         return Math.sqrt(a);
     }
