@@ -19,5 +19,10 @@ public class Calculator {
         }
         return a / b;
     }
+
+    public double sqrt(double a){
+        return Math.sqrt(a);
+    }
+    
 }
 
