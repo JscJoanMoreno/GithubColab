@@ -22,5 +22,8 @@ public class Calculator {
     public int modulus(int a, int b)
     return a%b;
 
+    public double sqrt(double a){
+        return Math.sqrt(a);
+    }
 }
 
